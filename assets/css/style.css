@@ -1,0 +1,220 @@
+/*
+I told you don't look :-(
+if this line above doesn't make sense to you don't look at index.html :-)
+@kaluaim
+*/
+
+@import url(http://fonts.googleapis.com/css?family=Montserrat:400,700);
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 215px;
+  overflow-x: hidden;
+  font-family: 'Montserrat', Arial, serif;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 215px;
+  background-color: #fff;
+}
+
+.footer-xs {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 130px;
+  background-color: #fff;
+}
+
+.footer-projects {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 50px;
+  background-color: #fff;
+}
+
+.footer-projects-xs {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 50px;
+  background-color: #fff;
+}
+
+.footer-logo {
+	height: 30px;
+	margin-top: 5px;
+	margin-left:-8px;
+}
+
+.footer-logo-xs {
+  height: 45px;
+  margin-top: -25px;
+  margin-left:-5px;
+}
+
+.footer-projects-logo {
+  height: 30px;
+  margin-top: -12px;
+  margin-left:-5px;
+}
+
+.container .text-muted {
+  margin: 19px 0 10px 0;
+}
+
+h1 { font-weight: 700; color: #000;}
+h2 { font-weight: 700; color: #000;}
+h3 { font-weight: 700; color: #999;}
+h4 { font-weight: 700; font-size:200%; color: #e3e2dd;}
+h5 { font-weight: 700; font-size:500%; color: #000;}
+h5 a{ font-weight: 700; font-size:100%; color: #000}
+h5 a:hover{ color: #999; text-decoration: none;}
+h5 a:focus{ color: #555; text-decoration: none;}
+h6 { font-weight: 700; font-size:100%; color: #999;}
+h6 a{ font-weight: 400; font-size:100%; color: #999;}
+h6 a:hover{ font-weight: 400; font-size:100%; color: #000; text-decoration: none;}
+h6 a:focus{ font-weight: 400; font-size:100%; color: #555; text-decoration: none;}
+
+
+/* header */
+/* header:index */
+/* ## lg ##*/
+.title-lg {}
+.title-lg img {height: 400px;}
+.title-lg h1 {font-size:1000%; margin-top: -280px; margin-left: 200px;}
+.title-lg h2 {font-size:1000%; margin-top: -50px; margin-left: 200px;}
+.title-lg h3 {font-size:300%; margin-top: -30px; margin-left: 160px;}
+
+/* ## md ##*/
+.title-md {}
+.title-md img {height: 300px;}
+.title-md h1 {font-size:700%; margin-top: -211px; margin-left: 155px;}
+.title-md h2 {font-size:700%; margin-top: -40px; margin-left: 155px;}
+.title-md h3 {font-size:220%; margin-top: -20px; margin-left: 160px;}
+
+/* ## sm ##*/
+.title-sm {}
+.title-sm img {height: 200px;}
+.title-sm h1 {font-size:500%; margin-top: -153px; margin-left: 100px;}
+.title-sm h2 {font-size:500%; margin-top: -33px; margin-left: 100px;}
+.title-sm h3 {font-size:180%; margin-top: -18px; margin-left: 105px;}
+
+/* ## xs ##*/
+.title-xs {}
+.title-xs img {height: 120px;}
+.title-xs h1 {font-size:300%; margin-top: -100px; margin-left: 60px;}
+.title-xs h2 {font-size:300%; margin-top: -23px; margin-left: 60px;}
+.title-xs h3 {font-size:140%; margin-top: -13px; margin-left: 63px;}
+
+/* header:projects*/
+/* ## lg ##*/
+.projects-title-lg {}
+.projects-title-lg img {height: 200px;}
+.projects-title-lg h1 {font-size:500%; margin-top: -190px; margin-left: 105px;}
+.projects-title-lg h1 a {color: #000;}
+.projects-title-lg h1 a:hover {color: #999;}
+.projects-title-lg h2 {font-size:600%; margin-top: -20px; margin-left: 100px;}
+.projects-title-lg h3 {font-size:180%; margin-top: 10px; margin-left: 80px;}
+
+/* ## md ##*/
+.projects-title-md {}
+.projects-title-md img {height: 180px;}
+.projects-title-md h1 {font-size:400%; margin-top: -170px; margin-left: 95px;}
+.projects-title-md h1 a {color: #000;}
+.projects-title-md h1 a:hover {color: #999;}
+.projects-title-md h1 a:focus {color: #555;}
+.projects-title-md h2 {font-size:550%; margin-top: -26px; margin-left: 90px;}
+.projects-title-md h3 {font-size:150%; margin-top: 10px; margin-left: 95px;}
+
+/* ## sm ##*/
+.projects-title-sm {}
+.projects-title-sm img {height: 160px;}
+.projects-title-sm h1 {font-size:350%; margin-top: -150px; margin-left: 85px;}
+.projects-title-sm h1 a {color: #000;}
+.projects-title-sm h1 a:hover {color: #999;}
+.projects-title-sm h1 a:focus {color: #555;}
+.projects-title-sm h2 {font-size:550%; margin-top: -32px; margin-left: 80px;}
+.projects-title-sm h3 {font-size:120%; margin-top: 10px; margin-left: 85px;}
+
+/* ## xs ##*/
+.projects-title-xs {}
+.projects-title-xs img {height: 120px;}
+.projects-title-xs h1 {font-size:300%; margin-top: -114px; margin-left: 65px;}
+.projects-title-xs h1 a {color: #000;}
+.projects-title-xs h1 a:hover {color: #999;}
+.projects-title-xs h1 a:focus {color: #555;}
+.projects-title-xs h2 {font-size:350%; margin-top: -23px; margin-left: 63px;}
+.projects-title-xs h3 {font-size:100%; margin-top: -3px; margin-left: 65px;}
+
+
+/* main-area */
+/* main-area:index */
+/* ## lg, md and sm ##*/
+.links {}
+.links h1 {font-size:600%;}
+.links h1 a {color: #000;}
+.links h1 a:hover {color: #999; text-decoration: none;}
+.links h1 a:focus {color: #555; text-decoration: none;}
+/* ## xs ##*/
+.links-xs {margin-top: 30px; margin-left: -16px;}
+.links-xs h1 {font-size:400%; margin-top: -10px;}
+.links-xs h1 a {color: #000;}
+.links-xs h1 a:hover {color: #999; text-decoration: none;}
+.links-xs h1 a:focus {color: #555; text-decoration: none;}
+
+/* main-area:projects */
+/* ## lg ##*/
+.projects-links-lg {}
+.projects-links-lg {margin-top: 30px;}
+.projects-links-lg h1 {font-size:500%; color: #555;}
+.projects-links-lg h1 a {color: #000;}
+.projects-links-lg h1 a:hover {color: #999; text-decoration: none;}
+.projects-links-lg h1 a:focus {color: #999; text-decoration: none;}
+.projects-links-lg h1 small {font-size:30%;}
+
+/* ## md ##*/
+.projects-links-md {}
+.projects-links-md {margin-top: 30px;}
+.projects-links-md h1 {font-size:400%; color: #555;}
+.projects-links-md h1 a {color: #000;}
+.projects-links-md h1 a:hover {color: #999; text-decoration: none;}
+.projects-links-md h1 a:focus {color: #555; text-decoration: none;}
+.projects-links-md h1 small {font-size:30%;}
+
+/* ## sm ##*/
+.projects-links-sm {}
+.projects-links-sm {margin-top: 30px;}
+.projects-links-sm h1 {font-size:330%; color: #555;}
+.projects-links-sm h1 a {color: #000;}
+.projects-links-sm h1 a:hover {color: #999; text-decoration: none;}
+.projects-links-sm h1 a:focus {color: #555; text-decoration: none;}
+.projects-links-sm h1 small {font-size:30%;}
+
+/* ## xs ##*/
+.projects-links-xs {}
+.projects-links-xs {margin-top: 30px;}
+.projects-links-xs h1 {font-size:300%; color: #555;}
+.projects-links-xs h1 a {color: #000;}
+.projects-links-xs h1 a:hover {color: #999; text-decoration: none;}
+.projects-links-xs h1 a:focus {color: #555; text-decoration: none;}
+
+/* footer */
+/* ## xs ##*/
+.footer-links-xs {}
+.footer-links-xs a {color: #999;}
+.footer-links-xs a:hover {color: #000;};
+.footer-links-xs a:focus {color: #555;};

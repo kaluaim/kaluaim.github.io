@@ -1,0 +1,11 @@
+
+/* TEAM */
+        Me: Khalid Alnuaim.
+        Twitter: @kaluaim
+        From: Riyadh, Saudi Arabia
+
+/* SITE */
+      	Last update:2015/05/03
+      	Doctype:HTML5
+        Components: jQuery, Bootstrap, Font Awesome
+      	IDE: Atom, FileZilla, Photoshop
