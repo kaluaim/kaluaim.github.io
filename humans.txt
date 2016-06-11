@@ -5,7 +5,7 @@
         From: Riyadh, Saudi Arabia
 
 /* SITE */
-      	Last update:2015/05/03
+      	Last update: June 11, 2016
       	Doctype:HTML5
-        Components: jQuery, Bootstrap, Font Awesome
-      	IDE: Atom, FileZilla, Photoshop
+        Components: Font Awesome, Google Fonts, Font Library
+      	Tools: Atom, Chrome DevTools, Photoshop
