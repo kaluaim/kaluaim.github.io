@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/kaluaim
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://kalua.im
+  * I am kaluaim (https://keybase.io/kaluaim) on keybase.
+  * I have a public key with fingerprint 4690 7C34 F411 0571 71AF  08E0 CF97 55B4 46FF 98C2
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101ab8276235d38604fff3b3a4ff1c99d858d77844c1569db0c63cfd127aaa9e0440a",
+            "fingerprint": "46907c34f411057171af08e0cf9755b446ff98c2",
+            "host": "keybase.io",
+            "key_id": "cf9755b446ff98c2",
+            "kid": "0101ab8276235d38604fff3b3a4ff1c99d858d77844c1569db0c63cfd127aaa9e0440a",
+            "uid": "067df7e72151df481d1eaefe02c43619",
+            "username": "kaluaim"
+        },
+        "service": {
+            "hostname": "kalua.im",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1465797894,
+    "expire_in": 157680000,
+    "prev": "9b1d98ffbf017cba3857619689f77607d20f060eefbd2f072cf36ba9b16fba3f",
+    "seqno": 10,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.53
+Comment: https://keybase.io/crypto
+
+yMIiAnicrZJbSFRBGMdXK0spulghZA+dF5EWmzmXmTO7qAhBRZeH6IJUbnPOmdGT
+urudPbqZGoIV2GWJQoskjCLMUikhu0Fk20uFhV0eCrrZzYeullgU0Zwu0EOPzcvH
+fPz+//l/H3N10hhfRkp651Wycnv5+pQbfXurfKtLlqbVSkbEqpECtVI5+1lYhcVi
+bqjctqSABCCA1NBljGRFsxQdAZVzrhgKFRWahFi6plsY66pqQg0RywAmUkxuQRlT
+SgkDqgqo5Je4HS5lTtSxw66wVREB2FRUrkIINAwxpBzoDJicYE0zVBVxTnRTFsKy
+SMxTiHAGjbE8OyJ64hL6Ge8f/H/OXfXLDmGLY4ZlqEGLqzq0IKOMMyCbqoIg8cAY
+c8K0knlZaUUVtSuler8kmtW2yby9eoP8DeQJwi9FnYgbMSMVolvmutGAJ3Jroh4V
+Z0botz5k2GFLbFAIqpkTsyNhKQAFabq2ZwhVpGGCdaL6JbYpajssZHuEhpEOxPGe
+YdXCkhjQIjrnBgcQmwZVdIFAgnTCMUYAWzLgAAHGuGHJHGDZ5AoyqJAhLmgueRNt
+DEeEtzB1aanwjNmlYepWOUyqv3J57VhfSoYvbVyq97V8GelT/ny4M08n+La13/rS
+JQ08zxm/+8LBtET8/Ujy69kG2rT4kVy3P/tlcR1paRjYkJNfnmz+HN924V5mHly+
+cMKb6c4gu9M85+7cGcnhT3sSevay1bcTmcGR0SfGh+x43/DtexPl04Uvbn6LX7v/
+ePLsk8cf9NYmAt0LF4f0tuDkocurCmaubH7X3xYsaQ98PFi8JiPZFTtRGOzNOVIz
+K9d81tqQ+2Bm6p7ed63XM309qacGptmXelYEX86zKjefX0LHkaK3HUrrin27hrYc
+SrJn6HDLeierY1HgdWL31vxd56b6G0f75+fUH+g4+mrB4aKH7y92D34vbFpS3Pet
+s2nw2A6Um9VY8CirZec6/QeyJ0Ak
+=/s2r
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/kaluaim
+
+==================================================================
