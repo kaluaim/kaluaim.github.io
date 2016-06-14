@@ -59,6 +59,7 @@ main > div:lang(ar) {
   font-size: 1.9em;
   font-weight: 700;
   margin-bottom: -0.2em;
+  height: 1.5em;
 }
 
 .sub-title {
@@ -74,7 +75,7 @@ main ul {
 
 main li {
   margin-top: 0.4em;
-  font-size: 2em;
+  height: 1.5em;
 }
 
 @media only screen and (max-width: 767px) {
