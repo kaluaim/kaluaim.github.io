@@ -19,7 +19,7 @@ You can contact me through these methods:
 
 NOTE: I have some kind of "Telephone phobia" (it's a real thing you can read
       more about it: https://en.wikipedia.org/wiki/Telephone_phobia), so please
-      contact my first via email or chat.
+      contact me first via email or chat.
 
 My Keybase (https://keybase.io/kaluaim).
 To verify this message you can use this link (https://keybase.io/verify).
@@ -27,11 +27,11 @@ To verify this message you can use this link (https://keybase.io/verify).
 Version: Keybase OpenPGP v2.0.53
 Comment: https://keybase.io/crypto
 
-wsBcBAABCgAGBQJXX4YzAAoJEAmsxDlVhmtgLHYH/RqhqJvJEng5bJBAhp++2X4h
-JmGAMDD0Y7VRHqv7IeMV1Wqsl5yEml/IhTOTg58eRypg0Mo7DV+ceftIElNsK7xg
-YIZh6gSEFe8LIYfLneKWPA9mmtrql1Z4ubFsXFXenhJm41/YZ43nluKkQta6X8Pg
-aU1LdgnerZWA5xlES5E3FFIO3QjfeEzK98A0fo/F0ozW1Lf/34bQ6svCxSfOwGVO
-0QiN2w2K++d1YIQERho4ZnGBD28C4MRx5YrPXsitzSgUipKPmOrzQq+Z5ePbXah9
-wMOXoeHE+l4BsBXtPXuirjegFBbfiSQxYNrMdm/g8FZz9kwpZ5qsoGeW1uB8LFg=
-=ujiw
+wsBcBAABCgAGBQJXX5EoAAoJEAmsxDlVhmtgqRoIAIOIxgVNgWX052nIJVLBeVUz
+Xm5XsIHcqVvqjaaxPR2ibJ7OthF5j4rBwK7fJAytWY7HlQGs3qoYLk43rcBbc5sP
+Ri6ltUPJGms2DUbLjxjx9QSmw+7ncfsJrFkji4ZNLUiVSfEGnOH/dakDuqQVJvPO
+zNO1nxTab9/yjvSFv8JF8M0rOL16Vm0MvtplPD/+Zd9V6hJEnz5HE01huYrnsXcF
+ppk3vm1mQknPIltXxo4qC34VGeSZIhLRAR4Br8XO/I4AI9BS899V3At5OzOjcPRV
+iYHOh8+ZWRt/lJN5Tnk3VAmQkduezU1MxrZH8ChzdFafoKeP2qvwJAM2rTmsb0U=
+=tuVl
 -----END PGP SIGNATURE-----
