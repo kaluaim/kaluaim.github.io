@@ -37,6 +37,12 @@ As I said in index.html. :-D
  color: #34495E;
 }
 
+@media only screen and (max-width: 767px) {
+  #target-content #target-inner {
+    font-size: 0.7em;
+  }
+}
+
 #target-inner > :lang(ar) {direction: rtl;}
 
 #target-content #target-inner h2 { margin-top: 0; }
