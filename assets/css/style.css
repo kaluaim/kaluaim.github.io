@@ -2,11 +2,67 @@
 As I said in index.html. :-D
 @kaluaim
 */
+
+/* Modal */
+#target-content {
+	top: 0;
+	right: 0;
+	bottom: 0
+	left: 0;
+	pointer-events: none;
+	opacity: 0;
+	-webkit-transition: opacity 400ms;
+	transition: opacity 400ms;
+}
+
+#target-content:target {
+	pointer-events: all;
+	opacity: 1;
+  text-align: justify;
+}
+
+#target-content #target-inner {
+ position: absolute;
+ display: block;
+ padding: 30px;
+ line-height: 1.8;
+ width: 60%;
+ top: 50%;
+ left: 50%;
+ -webkit-transform: translateX(-50%) translateY(-50%);
+ -ms-transform: translateX(-50%) translateY(-50%);
+ transform: translateX(-50%) translateY(-50%);
+ box-shadow: 0px 12px 24px rgba(0, 0, 0, 0.2);
+ background: white;
+ color: #34495E;
+}
+
+#target-inner > :lang(ar) {direction: rtl;}
+
+#target-content #target-inner h2 { margin-top: 0; }
+
+#target-content #target-inner code { font-weight: bold; }
+
+#target-content a.close {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: #34495E;
+  opacity: 0.5;
+  -webkit-transition: opacity 200ms;
+  transition: opacity 200ms;
+}
+
+#target-content a.close:hover { opacity: 0.4; }
+
 html, body {
   color: #000;
   font-size: 14px;
   width: 99%;
-  height: 99%;
+  height: 98%;
 }
 
 :lang(en) {
@@ -117,6 +173,7 @@ footer img {
   width: 1.7em;
   opacity: 0.05;
   transition: opacity ease 0.2s;
+  margin-left: 2px;
 }
 
 footer img:hover {
@@ -135,4 +192,3 @@ footer img:hover {
   footer a {
     padding-left: 0;
   }
-}
