@@ -1,11 +1,11 @@
 
 /* TEAM */
-        Me: Khalid Alnuaim.
+        Me: Khalid Alnuaim
         Twitter: @kaluaim
-        From: New York, NY, USA
+        From: Cambridge, MA, USA
 
 /* SITE */
-      	Last update: Feb 13, 2017
-      	Doctype:HTML5
+      	Last update: Feb 10, 2019
+      	Doctype: HTML5
         Components: Font Awesome, Google Fonts, Font Library
-      	Tools: Atom, Chrome DevTools, Photoshop
+      	Tools: Vim, Atom, Chrome DevTools, Photoshop
