@@ -1,15 +1,7 @@
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
 
-You can contact me through these methods:
-
- Instant messaging (IM):
-    * Telegram: by using this link (https://telegram.me/kaluaim), or
-                by searching for (kaluaim).
-
-    * Hangouts: by searching for (kaluaim).
-
- Email:
+Email:
      * You can send an email directly to: kaluaim [@} gmail . com.
 
      * If you want to encrypt your message you can use my public key:
@@ -19,19 +11,19 @@ You can contact me through these methods:
 
 NOTE: I have some kind of "Telephone phobia" (it's a real thing you can read
       more about it: https://en.wikipedia.org/wiki/Telephone_phobia), so please
-      contact me first via email or chat.
+      contact me first via email.
 
 My Keybase (https://keybase.io/kaluaim).
 To verify this message you can use this link (https://keybase.io/verify).
 -----BEGIN PGP SIGNATURE-----
-Version: Keybase OpenPGP v2.0.53
+Version: Keybase OpenPGP v2.0.80
 Comment: https://keybase.io/crypto
 
-wsBcBAABCgAGBQJXX5EoAAoJEAmsxDlVhmtgqRoIAIOIxgVNgWX052nIJVLBeVUz
-Xm5XsIHcqVvqjaaxPR2ibJ7OthF5j4rBwK7fJAytWY7HlQGs3qoYLk43rcBbc5sP
-Ri6ltUPJGms2DUbLjxjx9QSmw+7ncfsJrFkji4ZNLUiVSfEGnOH/dakDuqQVJvPO
-zNO1nxTab9/yjvSFv8JF8M0rOL16Vm0MvtplPD/+Zd9V6hJEnz5HE01huYrnsXcF
-ppk3vm1mQknPIltXxo4qC34VGeSZIhLRAR4Br8XO/I4AI9BS899V3At5OzOjcPRV
-iYHOh8+ZWRt/lJN5Tnk3VAmQkduezU1MxrZH8ChzdFafoKeP2qvwJAM2rTmsb0U=
-=tuVl
+wsBcBAABCgAGBQJcYMQoAAoJEAmsxDlVhmtg0XMIAL7mjtNzAofkkrg+vvCZtATA
+o/wn/RpexZcgvJKVv2aaouSqZf+Ol5fzz5J2I5zloV63QWh1z7xDHT4i+bHmS0jI
+LNjKG4j3RVYgXze1eIwiN/35u3XtuelQBT9lhshsCBHFWtTBDOIUF3buRqfWenLP
+VNkDsTNogrFhxXkdzcP3KtIKPZoXbPPEDbMHA/Eb7w8eBr9iYaK9tS6KwXqIB/N3
+mPfUIpTJvXow9EesqVE5LxUnL1JHRgfzdXcNWsuRMF7ke6/JfPEVjyjmIWAbngvq
+vasQNHAwH53yXIASptWSh7Q0Jl3DI5Jw4NKPq4VNvOysmPcIBnOtYlnMZ1E6ybM=
+=hY/L
 -----END PGP SIGNATURE-----
