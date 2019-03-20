@@ -1,0 +1,18 @@
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix cert: <http://www.w3.org/ns/auth/cert#> .
+@prefix rdfs: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<> a foaf:PersonalProfileDocument ;
+   foaf:maker <#this> ;
+   foaf:primaryTopic <#this> .
+
+<#this> a foaf:Person ;
+   foaf:name "Khalid Alnuaim";
+   foaf:img "https://holycrab13.github.io/me.png";
+   cert:key [
+       a cert:RSAPublicKey;
+       rdfs:label "gen on kaluaim-macbook-pro";
+       cert:modulus                                                                                    "9a3a584d60d4057d285bb4e510694d071e0c0822f64dfad1f6060273d42b11752eca55ff5f2b4f658438f76304635856335e 3ceba30c8ab1e22cc5b1d8ac9b20863038aa990efe3128e9475cfeef33ac0e4acd81ab15e482ea42ee576c15b6c3febba21cd 9821f0d40cdcf627094a302a3226047e285d6e11115fc09613fd23e3f9ff2ac87c19ec6186a9d260fbef1796f2bea191028f9 ecaf1f4187bd1416dd7d5d5bc0b7a16245fdef4fed01a5a5ba4b387e14529b191b31adf7e1fd55aa87c5f7b9fa06cebe77e49 618791bbb2096afac8157ea0c761fa9ce3a34a935eaf963ec1a4fb665342583124d60b79ac072c324045bd5c5f0c5073ebe16 a69a2285"^^xsd:hexBinary;
+       cert:exponent "65537"^^xsd:nonNegativeInteger
+      ] .
