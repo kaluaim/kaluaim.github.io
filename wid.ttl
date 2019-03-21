@@ -1,18 +1,42 @@
-@prefix foaf: <http://xmlns.com/foaf/0.1/> .
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
-@prefix cert: <http://www.w3.org/ns/auth/cert#> .
-@prefix rdfs: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix : <#>.
+@prefix pro: <./>.
+@prefix n0: <http://xmlns.com/foaf/0.1/>.
+@prefix n: <http://www.w3.org/2006/vcard/ns#>.
+@prefix schem: <http://schema.org/>.
+@prefix k: <http://kalua.im/>.
+@prefix k0: <https://github.com/kaluaim/>.
+@prefix kh: <https://www.linkedin.com/in/khalidalnuaim/>.
+@prefix ldp: <http://www.w3.org/ns/ldp#>.
+@prefix inbox: </inbox/>.
+@prefix sp: <http://www.w3.org/ns/pim/space#>.
+@prefix k1: </>.
+@prefix terms: <http://www.w3.org/ns/solid/terms#>.
+@prefix c: <https://jumana.solid.community/profile/card#>.
+@prefix c0: <https://timbl.solid.community/profile/card#>.
+@prefix che: </public/chess_20190317.ttl#>.
+@prefix stor: <http://example.org/storage/>.
 
-<> a foaf:PersonalProfileDocument ;
-   foaf:maker <#this> ;
-   foaf:primaryTopic <#this> .
+pro:card a n0:PersonalProfileDocument; n0:maker :me; n0:primaryTopic :me.
 
-<#this> a foaf:Person ;
-   foaf:name "Khalid Alnuaim";
-   foaf:img "https://holycrab13.github.io/me.png";
-   cert:key [
-       a cert:RSAPublicKey;
-       rdfs:label "gen on kaluaim-macbook-pro";
-       cert:modulus                                                                                    "9a3a584d60d4057d285bb4e510694d071e0c0822f64dfad1f6060273d42b11752eca55ff5f2b4f658438f76304635856335e 3ceba30c8ab1e22cc5b1d8ac9b20863038aa990efe3128e9475cfeef33ac0e4acd81ab15e482ea42ee576c15b6c3febba21cd 9821f0d40cdcf627094a302a3226047e285d6e11115fc09613fd23e3f9ff2ac87c19ec6186a9d260fbef1796f2bea191028f9 ecaf1f4187bd1416dd7d5d5bc0b7a16245fdef4fed01a5a5ba4b387e14529b191b31adf7e1fd55aa87c5f7b9fa06cebe77e49 618791bbb2096afac8157ea0c761fa9ce3a34a935eaf963ec1a4fb665342583124d60b79ac072c324045bd5c5f0c5073ebe16 a69a2285"^^xsd:hexBinary;
-       cert:exponent "65537"^^xsd:nonNegativeInteger
-      ] .
+:id1552686409945 a n:Internet; n:value <mailto:kaluaim@gmail.com>.
+
+:id1552949838199 n:value <mailto:kaluaim@gmail.com>.
+
+:id1552949849438 n:country-name "USA"; n:locality "Cambridge"; n:region "MA".
+
+:me
+    a schem:Person, n0:Person;
+    n:fn "Khalid Alnuaim";
+    n:hasAddress :id1552949849438;
+    n:hasEmail :id1552949838199;
+    n:hasPhoto <kaluiam_avatar.png>;
+    n:url k:, k0:, kh:;
+    ldp:inbox inbox:;
+    sp:preferencesFile </settings/prefs.ttl>;
+    sp:storage k1:;
+    terms:account k1:;
+    terms:privateTypeIndex </settings/privateTypeIndex.ttl>;
+    terms:publicTypeIndex </settings/publicTypeIndex.ttl>;
+    n0:knows c:me, c0:me;
+    n0:name "Khalid Alnuaim".
+che:jtdi3va5 stor:storeIn </public/chess_20190317.ttl>; schem:contributor :me.
