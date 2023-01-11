@@ -5,7 +5,7 @@
         From: Cambridge, MA, USA
 
 /* SITE */
-      	Last update: Jan 06, 2020
+      	Last update: Jan 11, 2023
       	Doctype: HTML5
         Components: Font Awesome, Google Fonts, Font Library
-      	Tools: Vim, Atom, Chrome DevTools, Photoshop
+      	Tools: Vim, VSCode, Chrome DevTools, Photoshop
